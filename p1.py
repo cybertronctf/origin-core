@@ -1,1 +1,0 @@
-print("origin-core FIX2")
