@@ -1,1 +1,1 @@
-print("origin-core INSERT")
+print("origin-core UPDATE")
